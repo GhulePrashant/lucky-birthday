@@ -17,5 +17,3 @@ And we will show your birthdate is lucky or not on the same page.
 ### Privacy Notice:
 
 We do not store or share your personal data and information.
-
-{"mode":"full","isActive":false}
